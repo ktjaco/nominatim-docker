@@ -25,7 +25,7 @@ Uses Ubuntu 14.04 and PostgreSQL 9.3
   
 3. Configure incrimental update. By default CONST_Replication_Url configured for Canada. Edit the ```local.php``` file.
   ```
-  @define('CONST_Replication_Url', 'http://download.geofabrik.de/europe/germany-updates');
+  @define('CONST_Replication_Url', 'http://download.geofabrik.de/north-america/canada-updates');
   ```
 
 4. Build 
